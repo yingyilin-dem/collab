@@ -1,0 +1,1 @@
+This Stata do.file contains scripts to replicate results from Smith-Greenaway 2024 paper published in Socius: Education as a risk factor of unintended pregnancy. Data needed for this script is publicly avaiable via DHS. Contributors: Yingyi Lin (please direct questions to yingyi.lin.cn@gmail.com), Emily Smith-Greenaway. 
